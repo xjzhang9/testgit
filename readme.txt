@@ -1,2 +1,3 @@
-Git is a version control system.
-Git is free software.123345
+小结
+现在总结一下：
+
